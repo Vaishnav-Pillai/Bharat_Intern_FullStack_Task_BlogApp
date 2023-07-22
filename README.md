@@ -1,1 +1,1 @@
-# Bharat_Intern_FullStack_Task_BlogApp
+# NXTECH-MERN-Task-2_BlogApp
